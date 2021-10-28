@@ -1,3 +1,5 @@
+//Cyclically rotate an array by one
+
 #include<bits/stdc++.h>
 using namespace std;
 
