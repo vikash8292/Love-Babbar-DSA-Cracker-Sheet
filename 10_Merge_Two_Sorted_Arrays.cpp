@@ -1,4 +1,4 @@
-//Merge two sorted array without using extra space
+//Merge two sorted arrays without using extra space
 
 #include<bits/stdc++.h>
 using namespace std;
