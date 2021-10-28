@@ -1,3 +1,5 @@
+//Sort an array consisting of only 0s, 1s and 2s without using any sorting algorithm
+
 #include<bits/stdc++.h>
 using namespace std;
 
